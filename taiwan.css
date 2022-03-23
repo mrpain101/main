@@ -1,0 +1,46 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+} */
+h2{
+    color: darkslategrey;
+}
+.metoo{
+    background-color: chocolate;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.myview2{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTykYKt1_qBoz9R9PaTIO-hb4RfmKeJX6cIfQ&usqp=CAU);
+    
+}
+.magg > img {
+    width: 15px;
+}
+.magg > input{
+    width: 30%;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.left{
+    position: relative;
+    left: -399px;
+    top: 3px;
+}
+.right{
+    position: relative;
+    right: 47px;
+    top: 3px;
+
+}
+
+.magtitude{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: smaller;
+    font-weight: 100;
+    
+    
+}
